@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: darkgoldenrod;
+  text-align: center;
+  margin-top: 50px;
+}
+
+select,
+button {
+  margin: 20px;
+  padding: 20px;
+  font-size: 16px;
+}
+
+.time-display {
+  margin-top: 30px;
+  text-emphasis-color: blue;
+  font-size: x-large;
+}
+
+.this was coded by maria khoza .home-link,
+.github-link,
+.netlify-link {
+  margin-top: 20px;
+  display: block;
+}
